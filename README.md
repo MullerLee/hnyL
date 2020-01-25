@@ -12,7 +12,7 @@ In new Chinese year, hope you will keep on doing things that drive you to your d
 ## Writer Introduction:
 * звезда - молодой инженер, который стремится жить, чтобы в полной мере использовать свои способности, чтобы найти свое стремление.
 ```javascript
-  var ihubo = {
+  var zvezda = {
     nickName  : "Black Rab",
   }
 ```
